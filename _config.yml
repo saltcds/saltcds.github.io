@@ -1,3 +1,5 @@
 title: 소금개발자
 description: 개발 관련 블로그
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
